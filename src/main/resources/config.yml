@@ -1,0 +1,12 @@
+# +-------------------------------------------------------------+
+# |                SCO version: ${project.version} by Katze9                 |
+# |                                                             |
+# | This is The Config fill, here you can change the web server |
+# | and more                                                    |
+# +-------------------------------------------------------------+
+
+
+
+
+#Do not edit the following part
+configuration-version: 1
