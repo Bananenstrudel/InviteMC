@@ -1,0 +1,12 @@
+name: ${project.name}
+version: ${project.version}
+api-version: 1.16
+description: a minecraft plugin
+author: Katze9
+main: ch.Bananenstrudel.SCO.Main
+depend: [WorldGuard]
+
+commands:
+   tt:
+      description: Your description
+      usage: /<command>
